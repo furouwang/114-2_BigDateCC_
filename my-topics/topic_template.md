@@ -9,12 +9,19 @@
 Linux/Git 官方文件https://git-scm.com/doc.html海事資訊專業術語表交通部航港局官網.html
 ## 預計使用的技術
 [x] Python + Pandas 資料分析 (可用於整理海事術語表)
+
 [ ] Matplotlib / Seaborn 視覺化
+
 [ ] Jupyter Notebook
+
 [ ] Keras 預訓練模型
+
 [x] Gradio 互動介面 (可製作一個簡單的術語搜尋器)
+
 [ ] MySQL 資料庫[x] Docker 容器部署 (將筆記網頁打包成 Docker 鏡像)
+
 [x] 其他： Git 版本控制、Markdown 語法、GitHub Pages
+
 ## 預期成果
 做出來後會是一個結構完整的 GitHub Repository，包含多個 Markdown 檔案。
 透過 GitHub Pages 功能，這些筆記會轉換成一個專業的靜態教學網站，內容涵蓋 Linux 常用
