@@ -16,4 +16,6 @@ Linux/Git 官方文件https://git-scm.com/doc.html海事資訊專業術語表交
 [ ] MySQL 資料庫[x] Docker 容器部署 (將筆記網頁打包成 Docker 鏡像)
 [x] 其他： Git 版本控制、Markdown 語法、GitHub Pages
 ## 預期成果
-做出來後會是一個結構完整的 GitHub Repository，包含多個 Markdown 檔案。透過 GitHub Pages 功能，這些筆記會轉換成一個專業的靜態教學網站，內容涵蓋 Linux 常用指令、Git 操作流程以及海事資訊專業對照表，方便自己隨時查閱，也能分享給同學參考。
+做出來後會是一個結構完整的 GitHub Repository，包含多個 Markdown 檔案。
+透過 GitHub Pages 功能，這些筆記會轉換成一個專業的靜態教學網站，內容涵蓋 Linux 常用
+指令、Git 操作流程以及海事資訊專業對照表，方便自己隨時查閱，也能分享給同學參考。
