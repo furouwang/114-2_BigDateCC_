@@ -12,6 +12,7 @@
  格式：.pdf / .txt
 
  用途：學習 Linux 基礎指令、Shell Script 編寫及權限管理邏輯。
+ 
 2.Linux/Git 官方文件
 
  網址：https://git-scm.com/doc
@@ -19,6 +20,7 @@
  格式：HTML
 
  用途：查詢 Git 指令（如 git push, git pull）的詳細用法與錯誤排除。
+ 
 3.海事資訊專業術語表
 
  來源：交通部航港局官網
@@ -28,6 +30,7 @@
  格式：HTML
 
  用途：用於課程中涉及海事大數據或專業術語的對照與翻譯。
+ 
 ## 預計使用的技術
 [x] Python + Pandas 資料分析 (可用於整理海事術語表)
 
